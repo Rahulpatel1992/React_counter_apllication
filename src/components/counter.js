@@ -7,6 +7,7 @@ class counter extends Component {
       count: 0
     };
   }
+  
 
   incrementHandle = () => {
     this.setState({
